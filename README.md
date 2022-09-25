@@ -1,3 +1,4 @@
+![alt text](https://github.com/Singularity-Coder/Analyze-Me/blob/main/assets/logo192.png)
 # Analyze-Me
 Know your true self!
 
